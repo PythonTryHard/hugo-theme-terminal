@@ -176,6 +176,7 @@ blockquote {
   border-bottom: 1px solid $accent;
   margin: 40px 0;
   padding: 25px;
+  background-color: $blockquote-backgrond;
 
   @media ($phone) {
     padding-right: 0;
