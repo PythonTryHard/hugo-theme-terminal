@@ -37,6 +37,19 @@ pre {
   user-select: none;
 }
 
+.code-toolbar > .toolbar > .toolbar-item > span {
+  font-size: 0.8em !important;
+  font-weight: bold !important;
+  background:  transparent !important;
+  color: var(--accent) !important;
+  border-radius: var(--radius) !important;
+  box-shadow: none !important;
+  border: 1px solid var(--accent) !important;
+  margin: 6px !important;
+  padding: 10px !important;
+  user-select: none;
+}
+
 .collapsable-code {
   position: relative;
   width: 100%;
