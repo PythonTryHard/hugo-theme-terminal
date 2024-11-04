@@ -1,10 +1,11 @@
+/* #region Overrides for decorative CSS */
 :root {
   --background: #1d1e28;
   --foreground: #eceae5;
   --accent: #78e2a0;
   --font-size: 1rem;
   --line-height: 1.54rem;
-  --radius: 8px;
+  --radius: 0px;
 }
 
 html {
@@ -366,3 +367,4 @@ hr {
   background: var(--accent);
   height: 2px;
 }
+/* #endregion */
