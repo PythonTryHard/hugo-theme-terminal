@@ -368,3 +368,9 @@ hr {
   height: 2px;
 }
 /* #endregion */
+
+/* #region Overrides for layout */
+.container.full {
+  max-width: 75%;
+}
+/* #endregion */
